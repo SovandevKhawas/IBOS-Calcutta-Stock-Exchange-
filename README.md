@@ -1,1 +1,1 @@
-# IBOS-Calcutta-Stock-Exchange-
+# IBOS-Calcutta-Stock-Exchange
